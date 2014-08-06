@@ -1,7 +1,9 @@
 rust-stem
 =========
 
-Porter's stemmer for rust
+Porter's stemmer for rust.
+
+This is a clone of Do Nhat Minh's project, for use specifically with my [natural language processing library](https://github.com/cjqed/rs-natural).
 
 ## How to use ##
 1. Clone and compile the code
